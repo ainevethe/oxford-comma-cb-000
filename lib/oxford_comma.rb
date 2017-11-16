@@ -9,8 +9,6 @@ else
   new << array.pop
   final = new.join
   array << final
-
   array.join(", ")
-
   end
 end
